@@ -19,7 +19,7 @@
 
 - 📫 Student at Maulana Abdul Kalam Azad University.
 
-- 🌱 I’m currently learning more about MERN development.
+- 🌱 I’m currently learning more about REACT js.
 
 - 💬 let's discuss on any tech related stuff.
 
