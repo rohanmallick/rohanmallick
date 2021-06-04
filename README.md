@@ -3,7 +3,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/hrithik-mallick-30599620a">
+<a href="https://www.linkedin.com/in/rohan-mallick-515317210/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/rohanmallick">
